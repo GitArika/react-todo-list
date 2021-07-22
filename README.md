@@ -1,6 +1,6 @@
 # About
 
-First challenge from rocket react ignite.
+First challenge from rocketseat react ignite.
 
 This challenge handle with state and imutability concepts from react.
 
